@@ -68,7 +68,7 @@ span{
 .priceUpdate{
   display: flex;
   align-items: center;
-  padding-right: 30px;
+  padding-right: 45px;
 }
 .discounted-price {
   font-size: 30px;
@@ -83,9 +83,9 @@ span{
   align-items: center;
 }
 .cart{
-  border: 1px solid rgb(89, 139, 89);
+  border: 1px solid #407f67;
   border-radius: 6px;
-  background-color: rgb(32, 100, 32);
+  background-color: #407f67;
   display: flex;
   width: 75%;
   padding: 8px 15px;
