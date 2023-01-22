@@ -45,10 +45,11 @@ h1{
   margin-bottom: 20px; */
 }
 h2{
-  font-size: 35px;
+  font-size: 28px;
   line-height: 0.95;
   margin-top: 5px;
   margin-bottom: 18px;
+  font-family: 'Ultra', serif;
 }
 article{
   font-size: 15px;
@@ -71,8 +72,9 @@ span{
   padding-right: 45px;
 }
 .discounted-price {
-  font-size: 30px;
-  font-weight: 900;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: 'Ultra', serif;
   flex: 1;
   
 }
